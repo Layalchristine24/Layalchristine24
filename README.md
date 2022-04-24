@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 # My current PhD research project
 🔭 I’m currently working on
-- a research project which aims to estimate the Swiss old-age and survivor's insurance (OASI) first pension amounts as a PhD Student at the University of Fribourg (Switzerland);
+<!--
+- a research project which aims to estimate the Swiss old-age and survivor's insurance (OASI) first pension amounts as a PhD Student at the University of Fribourg (Switzerland);-->
 - the clustering of the Swiss Pension Register in the R package [rrclust](https://github.com/asam-group/rrclust) using Kamila Clustering Method with the R package [kamila](https://github.com/ahfoss/kamila) of A. Foss et al. (2016) and A. Foss et al. (2018);
 - testing classification methods on the Swiss Pension Register (e.g. R packages [forestoasi](https://github.com/Layalchristine24/forestoasi) and [rrml](https://github.com/asam-group/rrml).
 
