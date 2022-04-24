@@ -1,6 +1,6 @@
 # Hi there 👋
-I am currently working as an econometrician in the Mathematics sector for the Federal Social Insurance Office (FSIO). 
-On behalf of the FSIO, I have undertaken a research project in parallel with her office job as a PhD Student in Economics and Social Sciences under the supervision of Prof. Dr. Laurent Donzé at the University of Fribourg (Switzerland) and have become a member of the [ASAM Group](www.unifr.ch/inf/asam/en/) (Applied Statistics and Modelling).
+I have been working as an econometrician in the Mathematics sector for the Federal Social Insurance Office (FSIO) since 2017. 
+On behalf of the FSIO, I have undertaken a research project in parallel with my office job as a PhD Student in Economics and Social Sciences under the supervision of Prof. Dr. Laurent Donzé at the University of Fribourg (Switzerland) and have become a member of the [ASAM Group](www.unifr.ch/inf/asam/en/) (Applied Statistics and Modelling).
 
 ![alt text here](http://istudy7.com/wp-content/uploads/2019/05/37-1200x600.jpg)
 
@@ -33,10 +33,36 @@ Here are some ideas to get you started:
 🔭 I’m currently developing
 - a Shiny Web App on financial stocks indicators (cf. [stock-analysis repository](https://github.com/Layalchristine24/stock-analysis)).
 
-# My programming languages
-I essentially work
-- with the R programming language in Rstudio
-- and use daily *dplyr*, *ggplot2*, *tidyr*,...
+# I am a member by...
+- [ASAM Group](www.unifr.ch/inf/asam/en/)
+- [Swiss Statistical Society (SSS)](www.stat.ch/en/)
+- [adminR](www.meetup.com/fr-FR/adminR/)
+- [Swiss Society of Economics and Statistics (SSES)](www.sgvs.ch/news)
+
+
+# One can find me on...
+- [github.com/asam-group](github.com/asam-group)
+- [Linkedin](www.linkedin.com/in/layal-christine-lettry-529b4471/)
+- [Twitter](twitter.com/LettryL)
+- [ResearchGate](www.researchgate.net/profile/Layal-Lettry)
+- [Academia](unifr.academia.edu/LayalChristineLettry)
+
+
+
+# My interests
+
+- R (Tidy Data/dplyr/ggplot2/...)
+- Econometrics (theory and applied)
+- Forecasting Economic modeling
+- Applied Statistics/Data Science
+- Machine Learning
+- Big Data
+- Financial statistics
+- Other statistical softwares and programming languages
+
+# I’m looking to learn...
+- Other programming languages (Python, C++, SQL,...)
+- Software Engineering and Development
 
 
 ![alt text here](https://ih1.redbubble.net/image.3074894281.0888/st,small,507x507-pad,600x600,f8f8f8.u2.jpg)
