@@ -50,20 +50,20 @@ Here are some ideas to get you started:
 
 
 
-# My interests
+# My interests are...
 
-- R (Tidy Data/dplyr/ggplot2/...)
-- Econometrics (theory and applied)
-- Forecasting Economic modeling
-- Applied Statistics/Data Science
-- Machine Learning
-- Big Data
-- Financial statistics
-- Other statistical softwares and programming languages
+- R (Tidy Data/dplyr/ggplot2/...);
+- Econometrics (theory and applied);
+- Forecasting Economic modeling;
+- Applied Statistics/Data Science;
+- Machine Learning;
+- Big Data;
+- Financial statistics;
+- Other statistical softwares and programming languages.
 
 # I would like to learn...
-- other programming languages (Python, C++, SQL,...)
-- Software Engineering and Development
+- other programming languages (Python, C++, SQL,...);
+- Software Engineering and Development.
 
 
 ![alt text here](https://ih1.redbubble.net/image.3074894281.0888/st,small,507x507-pad,600x600,f8f8f8.u2.jpg)
