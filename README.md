@@ -33,5 +33,9 @@ Here are some ideas to get you started:
 - a Shiny Web App on financial stocks indicators.
 
 # My programming languages
-- I essentially work with R and Rstudio
+I essentially work
+- with the R programming language in Rstudio
+- and use daily *dplyr*, *ggplot2*, *tidyr*,...
+
+
 ![alt text here](https://ih1.redbubble.net/image.3074894281.0888/st,small,507x507-pad,600x600,f8f8f8.u2.jpg)
