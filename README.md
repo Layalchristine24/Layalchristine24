@@ -26,8 +26,9 @@ Here are some ideas to get you started:
 - the clustering of the Swiss Pension Register in the R package [rrclust](https://github.com/asam-group/rrclust) using Kamila Clustering Method with the R package [kamila](https://github.com/ahfoss/kamila) of A. Foss et al. (2016) and A. Foss et al. (2018);
 - testing classification methods on the Swiss Pension Register (e.g. R packages [forestoasi](https://github.com/Layalchristine24/forestoasi) and [rrml](https://github.com/asam-group/rrml).
 
-🤔 I'm looking forward to 
-- developing the Transformation Forests in a time dimension.
+🤔 I intend to...
+- apply the Transformation Forests on the Swiss Pension Register;
+- develop the Transformation Forests in a time dimension.
 
 # My other research topics
 🔭 I’m currently developing
@@ -60,8 +61,8 @@ Here are some ideas to get you started:
 - Financial statistics
 - Other statistical softwares and programming languages
 
-# I’m looking to learn...
-- Other programming languages (Python, C++, SQL,...)
+# I would like to learn...
+- other programming languages (Python, C++, SQL,...)
 - Software Engineering and Development
 
 
