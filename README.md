@@ -38,14 +38,14 @@ Here are some ideas to get you started:
 🔭 I’m currently developing
 - a Shiny Web App on financial stocks indicators (cf. [stock-analysis repository](https://github.com/Layalchristine24/stock-analysis)).
 
-# I am a member by...
+# Professional affiliations
 - [ASAM Group](www.unifr.ch/inf/asam/en/);
 - [Swiss Statistical Society (SSS)](www.stat.ch/en/);
 - [adminR](www.meetup.com/fr-FR/adminR/);
 - [Swiss Society of Economics and Statistics (SSES)](www.sgvs.ch/news).
 
 
-# One can find me on...
+# Where to find me
 - [ASAM web page](https://www.unifr.ch/inf/asam/en/layal-lettry);
 - [github.com/asam-group](github.com/asam-group);
 - [Linkedin](www.linkedin.com/in/layal-christine-lettry-529b4471/);
@@ -55,11 +55,11 @@ Here are some ideas to get you started:
 
 
 
-# I am interested in...
+# My interests
 
 - R (Tidy Data/dplyr/ggplot2/...);
 - Econometrics (theory and applied);
-- Forecasting Economic modeling;
+- Forecasting and Economic Modeling;
 - Applied Statistics/Data Science;
 - Machine Learning;
 - Big Data;
@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 - Financial statistics;
 - Other statistical softwares and programming languages.
 
-# I would like to learn...
-- other programming languages (Python, C++, SQL,...);
+# Possible further education
+- Programming languages (Python, C++, SQL,...);
 - Software Engineering and Development.
 
 
