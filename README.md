@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 - Other statistical softwares and programming languages.
 
 # Possible further education
-- Programming languages (Python, C++, SQL,...);
+🤔 If possible, I’m looking for learning
+- other programming languages (Python, C++, SQL,...);
 - Software Engineering and Development.
 
 
