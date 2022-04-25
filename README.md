@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - The model of the [sum of the Old-Age and Survivor's Insurance (OASI) pension amounts](https://www.bsv.admin.ch/dam/bsv/fr/dokumente/ahv/finanzperspektiven/validierung-modellansatz-ahv.pdf.download.pdf/2018_07_09_definitif_ld_rapport_ofas.pdf).
 
 # My current PhD research project
+
+<img align="right" width="350" height="300" src=https://miro.medium.com/max/751/0*792eK4KO1S1XQyzj>
+
 🔭 I’m currently working on
 <!--
 - a research project which aims to estimate the Swiss old-age and survivor's insurance (OASI) first pension amounts as a PhD Student at the University of Fribourg (Switzerland);-->
@@ -31,6 +34,7 @@ Here are some ideas to get you started:
 - testing classification methods on the Swiss Pension Register (e.g. R packages [forestoasi](https://github.com/Layalchristine24/forestoasi) and [rrml](https://github.com/asam-group/rrml).
 
 🤔 I intend to...
+
 - apply the [Transformation Forests](https://github.com/cran/trtf) on the Swiss Pension Register;
 - develop the [Transformation Forests](https://github.com/cran/trtf) in a time dimension.
 
@@ -57,6 +61,8 @@ Here are some ideas to get you started:
 
 # My interests
 
+<img align="right" width="350" height="300" src="https://ih1.redbubble.net/image.3074894281.0888/st,small,507x507-pad,600x600,f8f8f8.u2.jpg">
+
 - R (Tidy Data/dplyr/ggplot2/...);
 - Econometrics (theory and applied);
 - Forecasting and Economic Modeling;
@@ -67,10 +73,14 @@ Here are some ideas to get you started:
 - Financial statistics;
 - Other statistical softwares and programming languages.
 
+
 # Possible further education
 🤔 If possible, I’m looking for learning
+
+<img align="right" width="350" height="300" src=https://s3-us-west-2.amazonaws.com/robogarden-new/Articles/upload/blogs/lg-best-programming-languages-to-teach-your-child.jpg>
+
 - other programming languages (Python, C++, SQL,...);
 - Software Engineering and Development.
 
 
-![alt text here](https://ih1.redbubble.net/image.3074894281.0888/st,small,507x507-pad,600x600,f8f8f8.u2.jpg)
+
