@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 # My professional achievements
 - The R package [delfin](https://github.com/swiss-adminR/201909_slides/blob/master/2019_09_19_plc_presentation_delfin.pdf) developed with my team at the FSIO (not available in github);
-- The model of the [sum of the Old-age and survivor's insurance (OASI) pension amounts](https://www.bsv.admin.ch/dam/bsv/fr/dokumente/ahv/finanzperspektiven/validierung-modellansatz-ahv.pdf.download.pdf/2018_07_09_definitif_ld_rapport_ofas.pdf).
+- The model of the [sum of the Old-Age and Survivor's Insurance (OASI) pension amounts](https://www.bsv.admin.ch/dam/bsv/fr/dokumente/ahv/finanzperspektiven/validierung-modellansatz-ahv.pdf.download.pdf/2018_07_09_definitif_ld_rapport_ofas.pdf).
 
 # My current PhD research project
 🔭 I’m currently working on
