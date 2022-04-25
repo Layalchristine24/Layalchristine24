@@ -62,6 +62,7 @@ Here are some ideas to get you started:
 - Applied Statistics/Data Science;
 - Machine Learning;
 - Big Data;
+- Demographic analysis;
 - Financial statistics;
 - Other statistical softwares and programming languages.
 
