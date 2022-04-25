@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# My professional achievements
+- The R package [delfin](https://github.com/swiss-adminR/201909_slides/blob/master/2019_09_19_plc_presentation_delfin.pdf) developed with my team at the FSIO (not available in github);
+- The model of the [sum of the Old-age and survivor's insurance (OASI) pension amounts](https://www.bsv.admin.ch/dam/bsv/fr/dokumente/ahv/finanzperspektiven/validierung-modellansatz-ahv.pdf.download.pdf/2018_07_09_definitif_ld_rapport_ofas.pdf).
+
 # My current PhD research project
 🔭 I’m currently working on
 <!--
@@ -35,22 +39,22 @@ Here are some ideas to get you started:
 - a Shiny Web App on financial stocks indicators (cf. [stock-analysis repository](https://github.com/Layalchristine24/stock-analysis)).
 
 # I am a member by...
-- [ASAM Group](www.unifr.ch/inf/asam/en/)
-- [Swiss Statistical Society (SSS)](www.stat.ch/en/)
-- [adminR](www.meetup.com/fr-FR/adminR/)
-- [Swiss Society of Economics and Statistics (SSES)](www.sgvs.ch/news)
+- [ASAM Group](www.unifr.ch/inf/asam/en/);
+- [Swiss Statistical Society (SSS)](www.stat.ch/en/);
+- [adminR](www.meetup.com/fr-FR/adminR/);
+- [Swiss Society of Economics and Statistics (SSES)](www.sgvs.ch/news).
 
 
 # One can find me on...
-- [github.com/asam-group](github.com/asam-group)
-- [Linkedin](www.linkedin.com/in/layal-christine-lettry-529b4471/)
-- [Twitter](twitter.com/LettryL)
-- [ResearchGate](www.researchgate.net/profile/Layal-Lettry)
-- [Academia](unifr.academia.edu/LayalChristineLettry)
+- [github.com/asam-group](github.com/asam-group);
+- [Linkedin](www.linkedin.com/in/layal-christine-lettry-529b4471/);
+- [Twitter](twitter.com/LettryL);
+- [ResearchGate](www.researchgate.net/profile/Layal-Lettry);
+- [Academia](unifr.academia.edu/LayalChristineLettry).
 
 
 
-# My interests are...
+# I am interested in...
 
 - R (Tidy Data/dplyr/ggplot2/...);
 - Econometrics (theory and applied);
