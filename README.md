@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 # My other research topics
 🔭 I’m currently developing
-- a Shiny Web App on financial stocks indicators (cf. [stock-analysis repository](https://github.com/Layalchristine24/stock-analysis)).
+- a Shiny Web App on stock-trading tools (cf. [stock-analysis repository](https://github.com/Layalchristine24/stock-analysis)).
 
 # Professional affiliations
 - [ASAM Group](www.unifr.ch/inf/asam/en/);
